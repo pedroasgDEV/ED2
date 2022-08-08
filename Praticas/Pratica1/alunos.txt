@@ -1,0 +1,9 @@
+8
+000 Clara 0 0 0 0
+001 Pedro 7 8 9 5
+010 Bruno 9 8 8 10
+011 Maria 3 4 2 20
+100 Marta 9 9 9 0
+101 Bruna 7 2 3 9
+110 Carla 2 3 2 3
+111 Freed 8 9 6 25 
